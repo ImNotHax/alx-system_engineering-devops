@@ -1,2 +1,2 @@
 #!/bin/bash
-git mv [A-Z]* /tmp/u
+git mv [A-Z]* tmp/u
