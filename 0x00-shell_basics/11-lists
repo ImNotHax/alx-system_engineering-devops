@@ -1,2 +1,2 @@
 #!/bin/bash
-ls-files -a
+ls -al -al .. -al /boot
